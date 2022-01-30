@@ -3,3 +3,5 @@ pandas
 pandas_datareader
 matplotlib
 mplfinance
+yfinance
+cufflinks
